@@ -157,7 +157,7 @@
                 android:layout_height="56dp"
                 android:layout_centerVertical="true"
                 android:layout_marginEnd="@dimen/activity_horizontal_margin"
-                android:src="@drawable/photo_2" />
+                android:src="@drawable/me" />
 
             <TextView
                 style="@style/TextContent"
